@@ -1,0 +1,12 @@
+{
+  "name": "SmoothTransport",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "protobufjs": "^5.0.1",
+    "sequelize": "^3.19.2"
+  }
+}
